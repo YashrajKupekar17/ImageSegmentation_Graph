@@ -1,10 +1,12 @@
-# 🧠 Image Segmentation App
+#  Image Segmentation App
 
 A streamlined image processing application that performs intelligent image segmentation using **Disjoint Set Union (DSU)** algorithms with Python and Streamlit. This app focuses on efficient pixel clustering for clean, accurate image segmentation.
 
-## 🚀 Features
+### Video : https://drive.google.com/file/d/1XBw0vIJnX-YfTWiPsBwauqTc5L8tHv4Q/view?usp=share_link
+### Link : https://image-segmentation-graph.streamlit.app
+##  Features
 
-### 🎨 Smart Image Segmentation
+###  Smart Image Segmentation
 - **DSU-based pixel clustering** with path compression and union by rank optimization
 - **Multiple connectivity patterns** (4-connected or 8-connected neighbors)
 - **Advanced color spaces** (RGB, HSV, LAB) for better perceptual accuracy
@@ -12,13 +14,13 @@ A streamlined image processing application that performs intelligent image segme
 - **Region filtering** by minimum size to remove noise
 - **Distinct color visualization** for clear region identification
 
-### 📊 Essential Analytics
+###  Essential Analytics
 - **Real-time processing statistics** with performance metrics
 - **Basic region analysis** (count, size distribution, processing time)
 - **Compression ratio** showing segmentation efficiency
 - **Clean side-by-side comparison** of original vs segmented images
 
-### 💾 Simple Export
+###  Simple Export
 - **PNG image download** for segmented results
 - **One-click export** with timestamped filenames
 - **High-quality output** preserving segmentation details
